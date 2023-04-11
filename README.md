@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/iHOlMUuKOYoAAAAC/internet-south-park.gif](https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif)">
+<img align="right" alt="Coding" width="400" src="https://lh3.googleusercontent.com/-aT9vJTmiPVk/X9OD0PKtRbI/AAAAAAAAAoo/CoOzSONsJhMJN73MXc9NySP_SodvEVqmwCLcBGAsYHQ/h1200/programming.gif">
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
