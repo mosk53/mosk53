@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Java**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/mosk53](https://github.com/mosk53)
+- 👨‍💻 All of my public projects are available here at GitHub
 
 - 💬 Ask me about **Python, kivy and PL/SQL**
 
