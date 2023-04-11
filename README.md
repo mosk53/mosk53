@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)
+![MasterHead](https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif)
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
