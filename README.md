@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/SxmptG68/https-blogs-mtdv-me-videos-F1-B.png">
+<img align="right" alt="Coding" width="250" src="https://i.postimg.cc/TwM0Ctmv/https-blogs-mtdv-me-videos-F1-B-1.png">
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
