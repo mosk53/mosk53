@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-<img align="right" alt="Coding" width="400" src="https://chemnitzer.linux-tage.de/2019/static/img/box/tuxel.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
