@@ -1,4 +1,4 @@
-![MasterHead](https://gifyu.com/image/SdloE)
+![MasterHead](https://s10.gifyu.com/images/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808-1.gif)
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
