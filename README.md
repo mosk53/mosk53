@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Temuri</h1>
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/iHOlMUuKOYoAAAAC/internet-south-park.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/iHOlMUuKOYoAAAAC/internet-south-park.gif">
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
