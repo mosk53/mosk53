@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, kivy and PL/SQL**
 
-- 📫 How to reach me **mosk.it@icloud.com**
+- 📫 How to reach me **temuri.isabekovi@icloud.com**
 
 - 📄 Know about my experiences [https://i.postimg.cc/Pq8HjDYt/lebenslauf.png](https://i.postimg.cc/Pq8HjDYt/lebenslauf.png)
 
