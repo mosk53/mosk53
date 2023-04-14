@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **Java**
 
