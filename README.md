@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 🤝 I’m looking for help with **Java**
+- 🌱 I’m currently learning **Mojo (Language)**
 
 - 👨‍💻 All of my public projects are available here at GitHub
 
