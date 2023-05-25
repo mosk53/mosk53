@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my public projects are available here at GitHub
 
-- 💬 Ask me about **Python, kivy and PL/SQL**
+- 💬 Ask me about **Java, Python and PL/SQL**
 
 - 📫 How to reach me **mosk.it@icloud.com**
 
