@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a python based monitoring system**
 
-- 🌱 I’m currently learning **Mojo (Language)**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my public projects are available here at GitHub
 
