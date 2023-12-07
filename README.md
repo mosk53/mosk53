@@ -2,17 +2,15 @@
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
 
-- 🔭 I’m currently working on **a python based monitoring system**
+- 🔭 I’m currently working on **a commercial Telegram Adbot**
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my public projects are available here at GitHub
-
-- 💬 Ask me about **Java, Python and PL/SQL**
+- 💬 Ask me about any Programming Language i love lerning new concepts
 
 - 📫 How to reach me **mosk.it@icloud.com**
 
-- ⚡ Fun fact **I think im funny**
+- ⚡ Fun fact I think im funny
 
 <p align="left">
 </p>
