@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Germany</h3>
 
 
-- 🔭 I’m currently working on **a commercial Telegram Adbot**
+- 🔭 I’m currently working on **a commercial Marketing Webservice**
 
 - 🌱 I’m currently learning **Rust**
 
