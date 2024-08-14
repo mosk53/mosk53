@@ -1,1 +1,1 @@
-![alt text](https://external-preview.redd.it/xdL6rAbEwc9iOvvnNazmcQnXEERcorPXdcyyGLmGghU.jpg?auto=webp&s=efb263b654fef8032164785e961a983f73b9ab21)
+![alt text](https://www.lto.de/fileadmin/_processed_/0/8/csm_Bildschirmfoto_2022-08-08_um_12.14.35_3ba4705873.png)
